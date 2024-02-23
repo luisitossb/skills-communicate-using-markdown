@@ -1,17 +1,26 @@
-# hi 
+# hi
 ## hi hi 
 ### hi hi hi 
 
-# Here in an image of my favorite champion ever <br> 
+ 
+###### Here in an image of my favorite champion ever *(Image from League Of Legends)* <br> 
 ![Image of Teemo](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg)
-###### From League Of Legends <br>
 
+
+###### Code Block 
 ``` javascript
 var myVar = "Hello, world!";
 ```
 
-Commit Changes: 
-I made 3 lines of "hi". <br> 
+
+###### Task List: <br>
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+###### Commit Changes: 
+I made 3 instances of "hi". <br> 
 The first one, has a singular '#'. <br>
 The second line, has 2 '#'. <br>
 The third line, has 3 '#'. <br>

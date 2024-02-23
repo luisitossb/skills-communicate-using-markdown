@@ -3,7 +3,7 @@
 ### hi hi hi 
 
 # Here in an image of my favorite champion ever, from League Of Legends. 
-![Image of Yaktocat](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg)
+![Image of Teemo](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg)
 
 Commit Changes: 
 I made 3 lines of "hi". <br> 

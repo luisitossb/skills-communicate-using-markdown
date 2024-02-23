@@ -1,6 +1,15 @@
 # hi 
-### hi hi 
-##### hi hi hi 
+## hi hi 
+### hi hi hi 
 
-I made 3 lines of "hi"s. The first one, has a singular '#', the second line, has 3 '#', and the third line, has 5 '#'. 
-I found that the more '#' symbols you add, the smaller the text gets. 
+# Here in an image of my favorite champion ever, from League Of Legends. 
+![Image of Yaktocat](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg)
+
+Commit Changes: 
+I made 3 lines of "hi". <br> 
+The first one, has a singular '#'. <br>
+The second line, has 2 '#'. <br>
+The third line, has 3 '#'. <br>
+I found that the more '#' symbols you add, the smaller the text gets. <br>
+I also tacked on a Teemo. <br>
+
